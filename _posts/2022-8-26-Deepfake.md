@@ -10,16 +10,10 @@ While a trained eye or certain tools can detect deepfake image flaws, those flaw
 
 You can test your ability to detect deepfake images by visiting: [https://www.whichfaceisreal.com/](https://www.whichfaceisreal.com/)
 
-The following are images of AI generated people from the website: [This-Person-Does-not-Exist.com](https://this-person-does-not-exist.com/en)
-
-![avatar-05c5c8656120cb45579ae4c03b6d5f16.jpg]({{site.baseurl}}/https:/this-person-does-not-exist.com/img/avatar-05c5c8656120cb45579ae4c03b6d5f16.jpg)
-
-![]({{site.baseurl}}/https://this-person-does-not-exist.com/img/avatar-7cbb98449dc0115aedf1a44beaba571b.jpg)
-
-![]({{site.baseurl}}/https://this-person-does-not-exist.com/img/avatar-48237bce4d3e318e25f5b738505ccf8f.jpg)
+The following person is AI generated from the website: [This-Person-Does-not-Exist.com](https://this-person-does-not-exist.com/en)
 
 
+![]({{site.baseurl}}/_posts/avatar-3%20these%20people%20do%20not%20exist.jpg)
 
-Although these images appear to be real, none of these people exist in real life, they are nothing more than computer generated people/images. Yet, a malicious actor can use these images to creat social media profiles, content, or even swap these faces to create deepfake videos. 
 
-
+Although this image appears to be a real person, it is nothing more than a computer generated image created by a machine. Yet, a malicious actor can use this image to create a social media profile, add the image to dating sites for a dating scam, use it on a website as a fake employee image, or even use this image to create deepfake videos. 
