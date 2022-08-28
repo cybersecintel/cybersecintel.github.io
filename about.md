@@ -10,4 +10,4 @@ Collecting and reporting on intelligence related to global threat actors, and vu
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[112054383+cybersecintel@users.noreply.github.com](mailto:112054383+cybersecintel@users.noreply.github.com)
