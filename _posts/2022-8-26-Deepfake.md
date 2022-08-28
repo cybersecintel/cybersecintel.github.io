@@ -12,9 +12,12 @@ You can test your ability to detect deepfake images by visiting: [https://www.wh
 
 The following are images of AI generated people from the website: [This-Person-Does-not-Exist.com](https://this-person-does-not-exist.com/en)
 
-![avatar-3 these people do not exist.jpg]({{site.baseurl}}/_posts/avatar-3 these people do not exist.jpg)
+![avatar-05c5c8656120cb45579ae4c03b6d5f16.jpg]({{site.baseurl}}/https:/this-person-does-not-exist.com/img/avatar-05c5c8656120cb45579ae4c03b6d5f16.jpg)
 
-![avatar-2 this person does not exist.jpg]({{site.baseurl}}/_posts/avatar-2 this person does not exist.jpg)
+![]({{site.baseurl}}/https://this-person-does-not-exist.com/img/avatar-7cbb98449dc0115aedf1a44beaba571b.jpg)
+
+![]({{site.baseurl}}/https://this-person-does-not-exist.com/img/avatar-48237bce4d3e318e25f5b738505ccf8f.jpg)
+
 
 
 Although these images appear to be real, none of these people exist in real life, they are nothing more than computer generated people/images. Yet, a malicious actor can use these images to creat social media profiles, content, or even swap these faces to create deepfake videos. 
