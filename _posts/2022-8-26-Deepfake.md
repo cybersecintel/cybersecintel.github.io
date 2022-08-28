@@ -12,9 +12,6 @@ You can test your ability to detect deepfake images by visiting: [https://www.wh
 
 The following person is AI generated from a website based tool: [This-Person-Does-not-Exist.com](https://this-person-does-not-exist.com/en)
 
-![avatar-3 these people do not exist.jpg]({{site.baseurl}}/_posts/avatar-3 these people do not exist.jpg)
-
-![]({{site.baseurl}}/https://github.com/cybersecintel/cybersecintel.github.io/blob/master/_posts/avatar-3%20these%20people%20do%20not%20exist.jpg)
-
+![]({{site.baseurl}}/https:/this-person-does-not-exist.com/img/avatar-05c5c8656120cb45579ae4c03b6d5f16.jpg)
 
 Although this image appears to be a real person, it is nothing more than a computer generated image that has been created by a machine. Yet, a malicious actor can use this image to create a social media profile, add the image to dating sites for a dating scam, use it on a website with similar images to create a team of fake employees or even use this image with other technology to create deepfake videos. The possibilities are endless.
