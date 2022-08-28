@@ -10,13 +10,12 @@ While a trained eye or certain tools can detect deepfake image flaws, those flaw
 
 The following are images of AI generated people from the website: [This-Person-Does-not-Exist.com](https://this-person-does-not-exist.com/en)
 
-![avatar-3 these people do not exist.jpg]({{site.baseurl}}/_posts/avatar-3 these people do not exist.jpg)
+![]({{site.baseurl}}/_posts/avatar-3%20these%20people%20do%20not%20exist.jpg)
 
+![]({{site.baseurl}}/_posts/avatar-2%20this%20person%20does%20not%20exist.jpg)
 
-![avatar-2 this person does not exist.jpg]({{site.baseurl}}/_posts/avatar-2 this person does not exist.jpg)
+![]({{site.baseurl}}/_posts/avatar-1%20This%20person%20does%20not%20exist.jpg)
 
-
-![avatar-1 This person does not exist.jpg]({{site.baseurl}}/_posts/avatar-1 This person does not exist.jpg)
-
+Although these images appear to be real, none of these people exist in real life, they are nothing more than computer generated people/images. Yet, a malicious actor can use these images to creat social media profiles, content, or even swap these faces to create deepfake videos. 
 
 
