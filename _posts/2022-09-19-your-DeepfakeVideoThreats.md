@@ -9,9 +9,9 @@ As Deepfake technology improves and becomes more accessible, the threat scenario
 
 As an example of how convincing current Deepfake video technology can be, take a look at this impressive Deepfake video using the image of Tom Cruise. If you were not told that this was a Deepfake video, would you be able to tell the difference between the real thing and the fake? 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iyiOVUbsPcM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=iyiOVUbsPcM and this page as well https://www.instagram.com/vfxchrisume/?hl=en
 
-ust imagine the future potential and threats that will develop from this technology in the hands of malicious actors, criminals, and governments. Possible attack scenarios could include the following:
+Just imagine the future potential and threats that will develop from this technology in the hands of malicious actors, criminals, and governments. Possible attack scenarios could include the following:
 
  
 **Deepfake Blackmail**
