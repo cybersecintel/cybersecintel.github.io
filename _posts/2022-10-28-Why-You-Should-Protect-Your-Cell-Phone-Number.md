@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Why You Should Protect Your Cell Phone Number
 
@@ -31,4 +31,3 @@ Second, a third number could also be obtained that could be used exclusively for
 Third, the number assigned to your device by your carrier can be reserved for communication with your carrier and for accounts that could be a critical incident if they were breached like banking, credit card, insurance, and mortgage accounts. 
 
 Along with protecting your phone from shoulder surfing, password protecting access to your device, and utilizing a VPN, a second and third number will also avoid hackers and scammers from gaining access to your master key-- your carrier assigned cell phone number.
-
