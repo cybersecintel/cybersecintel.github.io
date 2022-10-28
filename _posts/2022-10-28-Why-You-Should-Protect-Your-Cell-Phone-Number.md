@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-## Why You Should Protect Your Cell Phone Number
-
 
 **Your Number is the Master Key**
 
