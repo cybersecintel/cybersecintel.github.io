@@ -3,8 +3,6 @@ published: true
 ---
 ## Why You Should Protect Your Cell Phone Number
 
-![cellphonemasterkey.jpg]({{site.baseurl}}/_posts/cellphonemasterkey.jpg)
-
 
 **Your Number is the Master Key**
 
